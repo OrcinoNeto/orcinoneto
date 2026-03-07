@@ -1,5 +1,54 @@
-<h1 align="center">Hello World, I'm Orcino Neto.</h1>
+# 👨‍💻 Orcino Neto
 
+# 🚀 Desenvolvedor Full Stack
+
+Atuo no desenvolvimento de APIs, sistemas SaaS e aplicações web utilizando .NET, Angular, React e PostgreSQL.
+
+Tenho experiência na construção de backends robustos, integração entre serviços, modelagem de banco de dados e desenvolvimento de aplicações estruturadas com boas práticas de arquitetura e containerização com Docker.
+
+# 🚀 Sobre mim
+
+💼 Desenvolvedor Back-End / Full Stack  
+⚙️ Especialista em APIs REST com .NET  
+☁️ Experiência com Cloud e DevOps  
+🐳 Containerização com Docker  
+📊 Desenvolvimento de sistemas SaaS  
+🤖 Integrações e automações com APIs
+
+# ⚙️ O que eu desenvolvo
+
+✔ APIs REST escaláveis
+✔ Sistemas SaaS
+✔ Dashboards administrativos
+✔ Integração com APIs externas
+✔ Automação de processos
+✔ Sistemas Web completos (Front + Back)
+
+# 🧠 Tecnologias que utilizo
+
+### Backend
+- C#
+- .NET 8+
+- ASP.NET Core
+- Entity Framework
+
+### Frontend
+- Angular
+- React
+- TypeScript
+- HTML / CSS / Bootstrap
+
+### Banco de Dados
+- PostgreSQL
+- Supabase
+
+### DevOps / Infraestrutura
+- Docker
+- GitHub Actions
+- CI/CD
+- Azure
+
+---
 ###
 
 <div align="center">
